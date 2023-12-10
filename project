@@ -1,1 +1,6 @@
 
+[master 29f16f3] init commit
+ 5 files changed, 1 insertion(+), 1 deletion(-)
+ delete mode 100644 project/.vs/project/FileContentIndex/559e4b8d-6eec-4da3-835d-236fbda05d02.vsidx
+ create mode 100644 project/.vs/project/FileContentIndex/f774ac2e-22c5-4338-b16a-2fc13fba1e87.vsidx
+ rewrite project/.vs/project/v17/.suo (74%)
